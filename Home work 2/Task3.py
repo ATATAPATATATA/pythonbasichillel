@@ -15,3 +15,4 @@ distances = int(v) * int(t)
 print('Vasya stopped at', distances, 'km')
 if distances > 100 or distances < 0:
     print("Cyclist moved out of bounds")
+
